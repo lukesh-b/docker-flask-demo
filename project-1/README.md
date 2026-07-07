@@ -13,12 +13,12 @@ This project demonstrates how to set up a basic Python Flask application using D
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/lukesh-b/docker-cont.publ.git
+git clone https://github.com/lukesh-b/docker-flask-demo.git
 ```
 
 ### Step 2: Navigate to Project 1 Directory
 ```bash
-cd docker-cont.publ/project-1
+cd docker-flask-demo/project-1
 ```
 
 ### Step 3: Build the Docker Image
